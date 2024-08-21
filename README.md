@@ -1,16 +1,13 @@
-## Hi there 👋
+## olá bem vindos ao meu perfil🌸
 
-<!--
-**carol7090/carol7090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Caroline Gonçalves🤸‍♂️
 
-Here are some ideas to get you started:
+-Estou estudando 0 {Alura} (https://www.alura.com.br)
+-Estou me desenvolvendo ma linguagem JavaScript
+-Ultilizo este espaço para minha organização e conpartilhamento dos meus projetos desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você entra em contato comigo💗
+
+@carol.goncalves78
+
+00001124278941sp@al.educacao.sp.gov.br
